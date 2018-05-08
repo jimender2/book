@@ -50,7 +50,7 @@ int main() {
 	printf( "   3%13d\n", frequency3 );
 	printf( "   4%13d\n", frequency4 );
 	printf( "   5%13d\n", frequency5 );
-	printf( "   6%13d\n", frequency6 );
+	printf( "   %13d\n", frequency6 );
 
 	return 0;
 
